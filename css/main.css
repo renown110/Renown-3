@@ -1,0 +1,61 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}
+.link{
+    color: chocolate;
+    padding:10px 20px;
+}
+.link:hover{
+   background:chocolate;
+    color:azure;
+}
+.section1{
+    background: url(../img/background-calm-clouds-747964.jpg);
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.judul{
+    font-family:monospace;
+    font-size: 50px;
+    color: aliceblue;
+    margin: auto;
+}
+.sub-judul{
+    font-family: calibri;
+    font-size: 30px;
+    color:aliceblue;
+    margin: auto;
+}
+.section2{
+    background: url(../img/cold-conifer-dawn-917494.jpg);
+    background-size: cover;
+    padding: 200px 0px;
+}
+.sub-judul2{
+    color: aliceblue;
+    text-align: justify;
+}
+.section3{
+    background: url(../img/alberta-attractison-banff-417074.jpg);
+    background-size: cover;
+    padding:200px 0px;
+}
+.col-warna{
+    color: aliceblue;
+    font-size: 30px;
+}
+.col-warna2{
+    color: aliceblue;
+    font-size: 30px
+}
+.col-warna3{
+    color: aliceblue;
+    font-size: 30px;
+}
+.section4{
+    background-color: darkslategray;
+    padding:20px 0px;
+}
